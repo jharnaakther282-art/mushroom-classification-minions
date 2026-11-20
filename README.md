@@ -18,8 +18,8 @@ classifiers: Naive Bayes, Decision Tree, and Random Forest.
 - Target: edible (e) or poisonous (p)
 
 ## Files
-- `Copy_of_Mushroom_2.ipynb`: the notebook with all code and outputs
-- `Minions_Mushroom_Classification_Paper_Final.pdf`: the project paper
+- `Mushroom_2.ipynb`: the notebook with all code and outputs
+- `Minions_Mushroom_Classification_Paper.pdf`: the project paper
 
 ## Method (summary)
 - Checked duplicates (none) and missing values (`stalk-root`, kept as a separate category)
